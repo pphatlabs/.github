@@ -15,7 +15,7 @@ iMsophat is a web application builder, components library. We believe developmen
 ## Contributers
 
 <!-- -   [`Phat`](https://github.com/pphatDev) : Founder and Full Stack Developer
--   [`Chhem Sithuch`](https://github.com/cthuch) : Backend and Backend Developer
+-   [`Chhem Sithuch`](https://github.com/sithuch) : Backend and Backend Developer
 -   [`Thy Thary`](https://github.com/ThyThary) : Front End Developer
 -   [`Kol Heang`](https://github.com/KolHeang) : Backend and Front End Developer -->
 
@@ -46,22 +46,22 @@ iMsophat is a web application builder, components library. We believe developmen
             </td>
             <td align="center">
                 <a href="#">
-                    <img src="https://avatars.githubusercontent.com/u/128199454?v=4" width="100px;" alt="Kent C. Dodds"/>
+                    <img src="https://github.com/sithuch.png" width="100px;" alt="Kent C. Dodds"/>
                     <br />
                     <sub>
-                        <a href="https://github.com/cthuch"> 
+                        <a href="https://github.com/sithuch"> 
                             <b>Chh. Sithuch</b>
                         </a>
                     </sub>
                 </a>
                 <br />
                 <a href="https://github.com/iMSophat/anime/discussions" title="Answering Questions">💬</a> 
-                <a href="https://github.com/iMSophat/anime/commits?author=cthuch" title="Documentation">📖</a> 
-                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%cthuch" title="Reviewed Pull Requests">👀</a> 
+                <a href="https://github.com/iMSophat/anime/commits?author=sithuch" title="Documentation">📖</a> 
+                <a href="https://github.com/iMSophat/anime/pulls?q=is%3Apr+reviewed-by%sithuch" title="Reviewed Pull Requests">👀</a> 
                 <br />
-                <img src="https://github-readme-stats.vercel.app/api?username=cthuch&show_icons=true" width="100%">
+                <img src="https://github-readme-stats.vercel.app/api?username=sithuch&show_icons=true" width="100%">
                 <br />
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cthuch&layout=compact" width="100%">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sithuch&layout=compact" width="100%">
             </td>
             </tr>
             <tr>
