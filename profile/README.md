@@ -1,10 +1,11 @@
-<p align="center">
-    <a href="#" target="_blank">
-        <img src="https://avatars.githubusercontent.com/u/110803437?s=200&v=4" width="200"/>
-    </a>
-</p>
+<div align="center">
+<img src="https://avatars.githubusercontent.com/u/110803437?s=200&v=4" width="80"/>
+<br>
+<br>
+<img src="https://stats.pphat.top/badges?username=pphatlabs&name=visitors,repositories,languages,followers,total-stars,total-contributors&theme=ocean,neon,inferno,matrix,solar,galaxy&padding=10&size=medium"/>
+</div>
 
-# About PPhatLabs
+# 😳 About PPhat
 
 Tech Researching Labs...
 
